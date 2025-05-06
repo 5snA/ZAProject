@@ -82,7 +82,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("[GameManager] explorationPanel이 연결되지 않았습니다!");
+            Debug.LogWarning("[GameManager] explorationPanel 가 연결되지 않았습니다!");
         }
 
         // ✅ 텍스트 UI 갱신
