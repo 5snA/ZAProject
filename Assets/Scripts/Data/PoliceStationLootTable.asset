@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9350f6548af14a15b387f5c5420666e9, type: 3}
   m_Name: PoliceStationLootTable
   m_EditorClassIdentifier: 
-  LocationName: 
-  lootEntries: []
+  LocationName: Police Station
+  lootEntries:
+  - itemName: Pistol
+    dropChance: 0.25
+  - itemName: Ammunition
+    dropChance: 0.25

@@ -2917,6 +2917,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d336099de5994d37b45f56450228c79a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lootTables:
+  - {fileID: 11400000, guid: 99c5f05688ef8344da23d7d30960c55e, type: 2}
+  - {fileID: 11400000, guid: f53c162e463051440ae89ff444372bde, type: 2}
+  - {fileID: 11400000, guid: e303826f9a7ce984ab03f379606352d4, type: 2}
+  - {fileID: 11400000, guid: 7073fbc2066a216458c4db27bf3967e4, type: 2}
+  - {fileID: 11400000, guid: 49af1ccd77a273448bde7cef3f18b476, type: 2}
+  - {fileID: 11400000, guid: 5da0162f9054737479aee7efb70c25ef, type: 2}
+  - {fileID: 11400000, guid: b0baa46dbbcdbfa48830c337f7ad39f9, type: 2}
 --- !u!4 &1538324039
 Transform:
   m_ObjectHideFlags: 0
